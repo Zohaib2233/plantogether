@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "80026825394",
+    "project_id": "plan-together-e624c",
+    "storage_bucket": "plan-together-e624c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80026825394:android:2e70fa78201e1f8f218fab",
+        "android_client_info": {
+          "package_name": "com.example.plan_together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80026825394-afol1n4as6hli85bha4qbarodb2g387b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plan_together",
+            "certificate_hash": "968771bac0d91a257e9ded768098e168bcee8578"
+          }
+        },
+        {
+          "client_id": "80026825394-c73jn3ivavr04fna1olctf8drorjvela.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADvYoJFxgf8kMfmDQ_7XoxjCiLgFPer9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80026825394-c73jn3ivavr04fna1olctf8drorjvela.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80026825394-qhkc23vrdes9td843ki7i2iuefi4i9ku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plantogether.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
